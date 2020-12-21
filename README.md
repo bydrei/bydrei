@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hey, I'm Tim, a Computer Science student from Germany.
+## Hey, I'm Andre, a Software Engineer from UK
 
 
 **About me:**
