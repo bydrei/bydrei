@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻 I'm currently for a company called END. as a Senior back-end developer.
 - :wrench: ATM I'm learning iOS/Mac development in Swift and SwiftUI.
-- 💬 I love PHP, it's my favourite backend language.
+- 💬 I love PHP, it's my favourite backend language. I've been using it since PHP 5.3. (Current PHP 7.4)
 
 **Languages and Tools:** 
 <p>
