@@ -5,6 +5,8 @@
 **About me:**
 
 - 👨🏽‍💻 I'm currently for a company called END. as a Senior back-end developer.
+- :wrench: ATM I'm learning iOS/Mac development in Swift and SwiftUI.
+- 💬 I love PHP, it's my favourite backend language.
 
 **Languages and Tools:** 
 <p>
