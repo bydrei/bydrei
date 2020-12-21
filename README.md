@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hey, I'm Andre, a Software Engineer from UK
+## Hey, I'm Andre, a Software Engineer based in UK
 
 
 **About me:**
