@@ -4,7 +4,7 @@
 
 **About me:**
 
-- 👨🏽‍💻 I’m currently working at END.
+- 👨🏽‍💻 I'm currently for a company called END. as a Senior back-end developer.
 
 **Languages and Tools:** 
 <p>
