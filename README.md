@@ -7,7 +7,7 @@
 - 👨🏽‍💻 I'm currently for a company called END. as a Senior back-end developer.
 - :wrench: ATM I'm trying to spend atleast a few hour a week learning iOS/Mac development in Swift and SwiftUI.
 - ⌨️ I love PHP, it's my favourite backend language to build micro-services. I've been using it since 5.2 (Current version is 7.4).
-- 🌍 I'm fluent in English, Spanish and Portuguese
+- 🌍 I'm fluent in 🇬🇧 English, 🇪🇸 Spanish and 🇵🇹 Portuguese
 
 **Languages and Tools:** 
 <p>
