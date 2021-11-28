@@ -4,7 +4,7 @@
 
 **About me:**
 
-- 👨🏽‍💻 I'm currently for a company called END. as a Senior back-end developer.
+- 👨🏽‍💻 I'm working for a company called END. as a Lead Software Engineer.
 - :wrench: ATM I'm trying to spend atleast a few hour a week learning iOS/Mac development in Swift and SwiftUI.
 - ⌨️ I love PHP, it's my favourite backend language to build micro-services. It just gets better every release.
 - 🌍 I'm fluent in 🇬🇧 English, 🇪🇸 Spanish and 🇵🇹 Portuguese
