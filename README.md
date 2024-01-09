@@ -4,10 +4,10 @@
 
 **About me:**
 
-- 👨🏽‍💻 I'm working for a company called END. as a Lead Software Engineer.
-- :wrench: ATM I'm trying to spend atleast a few hour a week learning iOS/Mac development in Swift and SwiftUI.
-- ⌨️ I love PHP, it's my favourite backend language to build micro-services. It just gets better every release.
-- 🌍 I'm fluent in 🇬🇧 English, 🇪🇸 Spanish and 🇵🇹 Portuguese
+- 👨🏽‍💻 I'm a Software Engineer.
+- :wrench: I have over 9 years of experience building software.
+- ⌨️ PHP is my favourite backend language. Every release I like it more.
+- 🌍 I'm fluent in 🇬🇧 English, 🇵🇹 Portuguese and 🇪🇸 Spanish.
 
 **Languages and Tools:** 
 <p>
